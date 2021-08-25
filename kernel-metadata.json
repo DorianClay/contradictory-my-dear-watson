@@ -1,0 +1,24 @@
+{
+  "id": "dorianclay/a-solution-to-watson-s-contradictions",
+  "id_no": 19293194,
+  "title": "A Solution to Watson's Contradictions",
+  "code_file": "a-solution-to-watson-s-contradictions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "keras",
+    "tensorflow",
+    "numpy",
+    "pandas",
+    "transformers"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "c/contradictory-my-dear-watson"
+  ]
+}
